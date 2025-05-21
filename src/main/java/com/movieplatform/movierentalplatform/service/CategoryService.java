@@ -5,9 +5,9 @@ import com.movieplatform.movierentalplatform.util.FileHandler;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-
+  
 @Service
-public class CategoryService { //category service
+public class CategoryService { //categoryService
 
     public List<Category> getAllCategories() {
         return FileHandler.readCategories();

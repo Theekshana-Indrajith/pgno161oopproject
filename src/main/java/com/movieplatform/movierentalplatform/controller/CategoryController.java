@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import java.util.List;
 
 @Controller
-public class CategoryController { //controller class
+public class CategoryController { //controller class 
 
     private final CategoryService categoryService;
 
