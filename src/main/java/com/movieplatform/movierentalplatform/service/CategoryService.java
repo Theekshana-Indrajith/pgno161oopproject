@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 @Service
-public class CategoryService {
+public class CategoryService { //category service
 
     public List<Category> getAllCategories() {
         return FileHandler.readCategories();

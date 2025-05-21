@@ -1,6 +1,6 @@
 package com.movieplatform.movierentalplatform.model;
 
-public class Category {
+public class Category { //category model
     private int id;
     private String name;
 
