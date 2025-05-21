@@ -9,7 +9,7 @@ import java.time.LocalDate;
 import java.util.List;
 
 @Service
-public class ReservationService {
+public class ReservationService {   
 
     public boolean reserveMovie(String username, int movieId) {
         List<Movie> movies = FileHandler.readMovies();
