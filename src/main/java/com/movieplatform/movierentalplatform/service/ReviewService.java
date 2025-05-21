@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @Service
-public class ReviewService {
+public class ReviewService { //service class
 
     public List<Review> getReviewsByMovieId(int movieId) {
         return FileHandler.readReviews().stream()
