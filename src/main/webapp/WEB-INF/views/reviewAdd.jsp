@@ -93,7 +93,7 @@
             text-align: center;
         }
 
-        .sidebar-nav .admin-section {
+        .sidebar-nav .admin-section {   
             margin-top: 20px;
             padding-top: 15px;
             border-top: 3px double #b0c4de;

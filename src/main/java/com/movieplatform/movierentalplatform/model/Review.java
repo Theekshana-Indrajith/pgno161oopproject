@@ -2,7 +2,7 @@ package com.movieplatform.movierentalplatform.model;
 
 import java.util.Objects;
 
-public class Review {
+public class Review { //model class
     private int id;
     private String username;
     private int movieId;
@@ -85,4 +85,4 @@ public class Review {
     public int hashCode() {
         return Objects.hash(id, username, movieId, rating, comment);
     }
-}
+} 

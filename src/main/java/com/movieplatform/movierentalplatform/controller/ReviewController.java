@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @Controller
-public class ReviewController {
+public class ReviewController { //controller class
 
     private final ReviewService reviewService;
 
