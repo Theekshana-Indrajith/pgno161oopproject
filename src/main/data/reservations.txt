@@ -1,0 +1,2 @@
+#username,movieId,reservationDate
+admin,7,2025-05-10

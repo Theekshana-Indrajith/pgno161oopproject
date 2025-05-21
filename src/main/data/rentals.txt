@@ -1,0 +1,10 @@
+#username,movieId,rentalDate,returned
+admin,1,2025-05-06,true
+admin,3,2025-05-06,false
+admin,5,2025-05-10,false
+admin,7,2025-05-10,false
+admin,2,2025-05-10,false
+admin,6,2025-05-10,false
+admin,8,2025-05-10,false
+user,2,2025-05-14,false
+admin,1,2025-05-17,false

@@ -1,0 +1,9 @@
+#id,username,movieId,rating,comment
+0,user,3,4.50,"fun"
+2,admin,8,3.00,"top"
+4,admin,6,4.00,"k"
+5,admin,8,4.50,"woow"
+6,admin,1,4.00,"Super!"
+7,admin,5,5.00,"k"
+8,admin,7,5.00,"i"
+9,admin,1,2.50,"fun!"

@@ -1,0 +1,8 @@
+#name,username,email,password,role,pendingRole
+admin,admin,admin@gmail.com,1234,ADMIN,
+theekshana,theekshana,theekshana@gmail.com,1234,USER,
+user,user,user@gmail.com,1234,USER,
+admint,admint,admint@gmail.com,1234,ADMIN,
+admin2,admin2,admin2@gmail.com,1234,ADMIN,
+admin10,admin10,admin10@gmail.com,1234,ADMIN,
+adminK,adminK,adminK@gmail.com,1234,ADMIN,
